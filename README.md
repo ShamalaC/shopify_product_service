@@ -73,8 +73,7 @@
 -   Stats tracking middleware
 
 ## Project Structure
-'''
-
+```
 LuckyOrange/
 ├── src/                    # Microservice source code
 │   ├── index.ts           # Express server
@@ -87,7 +86,7 @@ LuckyOrange/
 ├── package.json          # Dependencies
 ├── tsconfig.json         # TypeScript config
 └── README.md            # Assignment requirements
-'''
+```
 
 # Quick Start Guide
 
