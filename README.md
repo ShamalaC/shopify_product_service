@@ -74,6 +74,7 @@
 
 ## Project Structure
 '''
+
 LuckyOrange/
 ├── src/                    # Microservice source code
 │   ├── index.ts           # Express server
